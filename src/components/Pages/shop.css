@@ -1,0 +1,39 @@
+
+.card-img-top{
+    width:100px;
+    height: 200px;
+    object-fit: contain;
+    overflow-x: hidden;
+
+}
+.card {
+transition: all 0.3s ease;
+width: 90%;
+}
+
+.card:hover{
+transform: scale(1.15);
+}
+.btn,
+.btn:hover,
+.btn:active,
+.btn:visited,
+.btn:focus {
+    background-color: #9fd319;
+    border-color: #e9e8eb;
+    
+}
+col{
+    background-color: #9fd319;
+}
+.dropend:hover > .dropdown-menu {
+    position: absolute;
+    top: 0;
+    left: 100%;
+  }
+  .drop {
+    text-decoration: underline rgb(4, 179, 62);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font: 500;
+    font-weight: bold;
+  }

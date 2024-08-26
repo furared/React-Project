@@ -1,0 +1,17 @@
+.tittl{
+    position:relative;
+    background-image: url('../../back.jpg');
+min-width: 100px;
+min-height: 100px;
+ background-position: 10px 10px;
+ background-size: 120px;
+background-repeat: no-repeat;
+display: flex;
+justify-content: center;
+
+}
+.sectil{
+    position: relative;
+    padding-left: 25%;
+  
+}
